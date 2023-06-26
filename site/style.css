@@ -1,0 +1,140 @@
+
+
+
+
+
+
+
+
+
+h1{
+    font-size: 63px;
+    color: white;
+    padding: 15px;
+    text-align: center;
+
+}
+/* tamanho de fonte  */
+/* cor do txto  */
+
+h2{
+    font-size: 54px;
+    /* text-transform: uppercase; */
+    color: #303030;
+    font-weight: 600;
+}
+/* tamanho da fonte  */
+/* transformei em maiuscula  */
+/* cor do txt  */
+/* grossura da fonte  */
+/* letter spacing espaçamento entre as letras  */
+
+.glyphicon {color: purple;}
+
+.carousel-caption h5 {
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
+}
+
+
+/* estilizacao feita pelo bootstrap  */
+
+/* #pacotes .figuras figure{
+display: inline-block;
+
+} */
+/* #id pacotes .classe figuras , elemento figure */
+/* um ao lado do outro  display in line em forma de bloco*/
+
+/* #pacotes .figuras, #pacotes .video {
+    text-align: center;
+} */
+
+
+/* dentro do elemento de #id pacotes as .classes figuras fiquem  alinhada ao centro   */
+
+
+/* substituido po barra de navegação do bootstrap  */
+/* nav li a {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+nav li {
+   float: left; 
+}  */
+/* os elementosa irao flutuar pro lado esquerdo  */
+
+/* nav ul{float: right;
+list-style: none;
+} */
+ /* vai levar a lista para o lado direito, list stile retirou as bolinhas pra tirar a cara de lista  */
+
+ /* nav{
+    font-size: 12px;
+    letter-spacing: 4px;
+    height: 50px;
+    background-color: DarkGreen;
+    padding-right: 40px;
+ } */
+
+ /* body{background-color: Azure;
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: #818181;
+    margin: 0;
+    
+    
+    }  */
+    
+    /* font-weight peso da fonte em negrito */
+    /* font family 2 fontes e 1 familia para que o navegador tente encontrar uma generica caso nao encontre a original  */
+    /* tamanho da fonte da pag  */
+    /* espaçamento entre linhas  unidade relativa ao tamanho da fonte definida no elemento pai no caso body 2.2x15px = espaçamento de 33px*/
+    /* cor do texto da pag  */
+
+    /* section, footer { margin: 40px;} */
+
+
+    /* table {
+
+        width: 100%;
+        padding: 40px ;
+       
+    } */
+    /* largura de 100% da página para essa tabela  */
+    
+    
+    /* table td {
+        color: #303030;
+        padding: 5px;
+    
+    } */
+    /* td coluna que nao é d cabeçalho  */
+    
+    /* table tr:nth-child(even){
+        background-color: #e9e9e9;
+    } */
+    
+    
+    /* cada linha uma cor diferente linha da tabela tr - pseudo classes nth-child(qual filho da linha que quer), dessas linhas qual que vc quer selecionar? quero a linha qndo for even, par*/
+    
+    /* table tr:nth-child(odd){
+    background-color: #bdbdbdbd;
+    } */
+    
+    
+    /* na tabela qndo a linha for impar odd quero que aplique a estilização   */
+    
+    /* table th{
+        background-color:DarkGreen ;
+        color: white;
+    } */
+    /* thead th coluna do thead  */
+    
+    
+    
